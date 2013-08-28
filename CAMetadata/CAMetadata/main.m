@@ -1,11 +1,3 @@
-//
-//  main.m
-//  CAMetadata
-//
-//  Created by flux0r on 2013.07.20.
-//  Copyright (c) 2013 b. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
 #import <AudioToolbox/AudioToolbox.h>
 
